@@ -5,5 +5,6 @@ _HTML
 _CSS
 _JS
 #link
-(https://miusuario.github.io)
+(https://github.com/tato25-spec/tienda.github.io/)
+
 ![Preview]
